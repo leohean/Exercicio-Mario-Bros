@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601469864 source:c:\users\leonardo\desktop\mariobros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1601466712 c:\users\leonardo\desktop\mariobros\funcoes.h
+
+1601470855 source:c:\users\leonardo\desktop\mariobros\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
